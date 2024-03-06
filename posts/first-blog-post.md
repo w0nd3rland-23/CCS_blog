@@ -9,9 +9,9 @@ Welcome everyone, to RMIT Creative Coding Specialisation!
 
 ![a small group of people creative coding on the street with their pets](/static/lilypad.jpg)
 
-#This is h1
+# This is h1
 
-##This is h2
+## This is h2
 
 _underline_
 
