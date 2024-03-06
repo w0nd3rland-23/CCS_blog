@@ -7,7 +7,7 @@ disable_html_sanitization: true
 
 test 
 Welcome everyone, to RMIT Creative Coding Specialisation!
-<iframe src="https://editor.p5js.org/w0nd3rland-23/full/fbB7bHzzY" width="100%"></iframe>
+<iframe src="https://editor.p5js.org/w0nd3rland-23/full/fbB7bHzzY" width="100%" height="242"></iframe>
 
 ![a small group of people creative coding on the street with their pets](/240603_First_Post/lilypad.jpg)
 
