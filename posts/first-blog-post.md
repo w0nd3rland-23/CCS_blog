@@ -7,7 +7,7 @@ snippet: This is my first entry into the world of creative coding!
 test 
 Welcome everyone, to RMIT Creative Coding Specialisation!
 
-![a small group of people creative coding on the street with their pets](/240306_first_post/lilypad.jpg)
+![a small group of people creative coding on the street with their pets](/static/lilypad.jpg)
 
 # This is h1
 
