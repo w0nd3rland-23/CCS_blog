@@ -1,7 +1,7 @@
 ---
-title: This is my first blog post!
-published_at: 2022-11-04T15:00:00.000Z
-snippet: This is an excerpt of my first blog post.
+title: First Post 
+published_at: 2022-03-06
+snippet: This is my first entry into the world of creative coding!
 ---
 
 Hello, world!
