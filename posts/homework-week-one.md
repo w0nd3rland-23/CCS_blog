@@ -7,7 +7,6 @@ disable_html_sanitization: true
 # Part 2
 <iframe src="https://editor.p5js.org/w0nd3rland-23/full/vQU_LU9Uk"></iframe>
 
-
 To start, I made the rough shapes as seen in https://www.onlysuddenly.com/
 
 I made the rectangle, and circle. 
