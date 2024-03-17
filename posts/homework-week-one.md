@@ -4,6 +4,22 @@ published_at: 2024-03-12
 snippet: This is my blog post for W1 homework 
 disable_html_sanitization: true
 ---
+
+
+# Part 1
+<iframe id="partone"src="https://editor.p5js.org/w0nd3rland-23/full/sf5eEjkvo"></iframe>
+<script type="module">
+  const iframe = document.getElementById (`partone`)
+  iframe.width  = iframe.parentNode.scrollWidth
+  iframe.height = iframe.parentNode.scrollWidth + 42
+</script>
+
+To make a grid, I first looked into more about how nested loops function. 
+
+I used this video to help assist me, https://www.youtube.com/watch?v=UKxB2j4h7Ag&ab_channel=PattVira
+
+
+
 # Part 2
 <iframe id="onlysuddenly" src="https://editor.p5js.org/w0nd3rland-23/full/vQU_LU9Uk"></iframe>
 
